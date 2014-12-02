@@ -1,4 +1,4 @@
-Test-Repo
-=========
+datasciencecoursera
+===================
 
-This is a test repository.
+This is a data science coursera repository.
